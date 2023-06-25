@@ -1,2 +1,2 @@
 # First_Project
-This Repo comprises my very first python projects while learning from Harvard U's CS50 Intro to AI
+This Repo comprises my very first python prgramming projects while learning from Harvard University's "CS50 Introduction to Artificial Intelligence with Pythin programming" 
